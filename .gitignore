@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Software_Testing_Portfolio/CopilotIndices/17.12.31.40377/CodeChunks.db
+/.vs/Software_Testing_Portfolio/CopilotIndices/17.12.31.40377
+/.vs/Software_Testing_Portfolio/FileContentIndex
+/.vs/Software_Testing_Portfolio/v17/.wsuo
+/.vs/Software_Testing_Portfolio/v17/DocumentLayout.backup.json
+/.vs/Software_Testing_Portfolio/v17/DocumentLayout.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
