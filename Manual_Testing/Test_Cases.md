@@ -276,3 +276,12 @@ The testing will cover :
 10. Verify that the website is protected against DDoS attacks.
 
 - **Expected Result:** The website should meet basic security standards.
+to
+## Conclusion
+- The test cases cover the major functionalities of the E-commerce website.
+- The test scenarios and test cases are designed to ensure comprehensive testing.
+- The test plan includes functional, non-functional, and security testing.
+- The test cases are designed to be executed manually by testers.
+- The test results should be recorded, analyzed, and reported for further action.
+- The test plan can be updated and expanded based on the project requirements.
+- The test plan should be reviewed and approved by stakeholders before execution.
